@@ -1,8 +1,11 @@
-## Namaste! I am Nandvi Jha
-Welcome to my page.
+## Namaste! I am Nandvi Jha.
+Aspiring bioinformatician, building Python and biology foundations to work with biological data.
 
-## Current status:
-Learning python
+
+## Currently working on
+- 🧬 Rosalind problems (0 solved)
+- 🐍 Python, Biopython, pandas
+- 📓 Dated notes in [learning-log] (https://github.com/nandvijha/learning-log)
 
 ##
 I will keep updating my README as I get better. 
